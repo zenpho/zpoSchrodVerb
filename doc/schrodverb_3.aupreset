@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAJAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAAEAAAA
+	AAAAAAUAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAgAAAAA
+	</data>
+	<key>jucePluginState</key>
+	<data>
+	zcxMPwAAgD/58WM/NWlSPgAAAAA8d24/MWLEPThw4D4jRow9
+	</data>
+	<key>manufacturer</key>
+	<integer>1515212639</integer>
+	<key>name</key>
+	<string>zpoShrodverb</string>
+	<key>subtype</key>
+	<integer>1397249602</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
