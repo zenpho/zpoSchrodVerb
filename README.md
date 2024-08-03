@@ -7,7 +7,11 @@ Delay times are deliberately harmonically related with a multipler such that a *
 
 ## What does it sound like?
 
-Audio demos in mono 48KHz 16bit WAV format are provided.
+Audio demos in mono 48KHz 16bit WAV format are [provided](./doc/). 
+- [shrodverb_1.wav](../../raw/main/doc/schrodverb_1.wav)
+- [shrodverb_2.wav](../../raw/main/doc/schrodverb_2.wav)
+- [shrodverb_3.wav](../../raw/main/doc/schrodverb_3.wav)
+- [shrodverb_4.wav](../../raw/main/doc/schrodverb_4.wav)
 
 ## How do I use this thing?
 
